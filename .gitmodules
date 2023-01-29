@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/TUK-2023-Project/frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/TUK-2023-Project/backend.git
