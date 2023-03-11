@@ -8,7 +8,7 @@ services:
       context: ./frontend
     command: ["yarn", "start"]
     ports:
-      - 3000:3000
+      - 3042:3000
     volumes:
       - ./frontend/:/frontend/
       - ./frontend/node_modules/:/frontend/node_modules
@@ -29,7 +29,12 @@ services:
       MYSQL_PASSWORD: 1234
     ports:
       - 3307:3306
+    healthcheck:
+      test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost"]
+      timeout: 20s
+      retries: 10
    
+
 
   backend:
     build:
@@ -47,7 +52,11 @@ services:
       - 8000
     env_file:
       - ./settings/dev/.env.dev
-    restart: on-failure
+    restart: always
+
+    depends_on:
+            db:
+                condition: service_healthy
 
 volumes:
   data: null
