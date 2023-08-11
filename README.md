@@ -43,12 +43,21 @@
 
 ## 🕹 Feature
 
+### 초기 홈화면 <br>
+
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/4df0662a-4ec2-4b98-b327-2e502acb48dc" />
+
 ### 회원가입, 로그인 <br>
 
-<img width="1200" alt="image" src="">
-<img width="1200" alt="image" src="">
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/8fa94b7e-efbd-41cc-acc6-88db11f6f944" />
+
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/49ee2202-4f49-43af-8547-ee3a76454f75" />
 <br>
 <br>
+
+### 메인 화면 <br>
+
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/03d68de3-ef0f-4215-9207-6e92abdc7cd1" />
 
 ### 카테고리 선택 <br>
 
@@ -70,14 +79,18 @@
 
 ### 랭킹 <br>
 
-<img width="1200" alt="image" src="">
+#### 게임 종료 직후 랭킹 확인 <br>
+
+#### 랭킹 페이지 <br>
+
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/10241af4-654f-49b8-b08d-cb3cbec372de" />
 
 <br>
 <br>
 
 ### 오답노트 <br>
 
-<img width="1200" alt="image" src="">
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/7fca5365-c678-46af-bbe8-8781058aab4d" />
 
 <br>
 <br>
