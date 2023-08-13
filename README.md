@@ -75,12 +75,12 @@
 
 #### 올바른 동작일 경우 <br>
 
-<img width="1200" alt="image" src="" />
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/8b8cea1d-75dc-40f1-836e-ee6aa09b4bc2" />
 <br>
 
 #### 틀린 동작일 경우 <br>
 
-<img width="1200" alt="image" src="" />
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/8951a270-7bb9-4419-817b-8ebf42d790eb" />
 
 <br>
 <br>
