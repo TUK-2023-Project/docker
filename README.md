@@ -61,19 +61,34 @@
 
 ### 카테고리 선택 <br>
 
-<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/docker/assets/79428205/d94deb37-4af2-42f1-a2ec-90e718887480">
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/2c3a51af-b794-4c5b-b402-20d4a9bd5d07" />
 <br>
 <br>
 
 ### 랜덤으로 제공되는 세가지 수어 학습 <br>
 
-<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/docker/assets/79428205/e6f1232e-801f-4613-a84d-6263dfe034fd">
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/8d7c33f4-1874-4e42-b5e3-35beb4d49271" />
 <br>
 <br>
 
 ### 수어 퀴즈 풀이 <br>
 
-<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/docker/assets/79428205/df59dee6-a8ff-45ba-a7ec-77286599c345">
+#### 올바른 동작일 경우 <br>
+
+<img width="1200" alt="image" src="" />
+<br>
+
+#### 틀린 동작일 경우 <br>
+
+<img width="1200" alt="image" src="" />
+
+<br>
+<br>
+
+### 수어 퀴즈 정답 풀이 <br>
+
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/886180cf-3eb2-438b-8d73-90c21ec19ad9" />
+
 <br>
 <br>
 
@@ -81,9 +96,18 @@
 
 #### 게임 종료 직후 랭킹 확인 <br>
 
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/df329b6f-5613-4d5c-bcc5-99f0734c0f81" />
+
 #### 랭킹 페이지 <br>
 
 <img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/10241af4-654f-49b8-b08d-cb3cbec372de" />
+
+<br>
+<br>
+
+### 공유 <br>
+
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/d63eabfc-cca9-4f15-8564-fa7e69368571" />
 
 <br>
 <br>
