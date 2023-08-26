@@ -120,9 +120,9 @@
 <br>
 <br>
 
-## 📹 [Demo]()
+## 📹 [Demo](https://www.youtube.com/watch?v=Xt1l6g2ln9s)
 
-<!-- [![Video Label]()]() -->
+[![Video Label](http://img.youtube.com/vi/Xt1l6g2ln9s/0.jpg)](https://youtu.be/Xt1l6g2ln9s)
 
 <br>
 <br>
@@ -143,8 +143,6 @@
 <img src="https://img.shields.io/badge/django-528DD7?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=Celery&logoColor=white">
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=Gunicorn&logoColor=white">
 <img src="https://img.shields.io/badge/MediaPipe-CC1319?style=for-the-badge&logo=MediaPipe&logoColor=white">
@@ -159,26 +157,14 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Git-73398D?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> 
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/googlemeet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-</p>
 
 ```
 - Frontend: React, React-Query, Redux, Scss
 - Backend : Django, Django-Rest-FrameWork
-- Asynchronous: Celery, Rabbitmq
 - WSGI: Gunicorn
 - Database: AWS RDS MySQL
 - AI : Mediapipe
 - Deployment: Docker, AWS EC2, AWS S3 bucket, AWS CloudFront
-- API Test : Postman
-- Others: Github, Notion, Google Meet, Slack, Figma
 ```
 
 <br>
@@ -298,5 +284,13 @@ docker-compose up --build
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | <img width = "520" src="https://avatars.githubusercontent.com/u/78795820?v=4"> | <img width = "520" src ="https://avatars.githubusercontent.com/u/79428205?v=4"> | <img width = "520" src ="https://avatars.githubusercontent.com/u/93627156?v=4"> |
 | Leader, Frontend, Backend                                                      | Frontend                                                                        | Backend                                                                         |
+
+<br>
+<br>
+<br>
+
+## ※ Reference
+
+https://github.com/gabguerin/Sign-Language-Recognition--MediaPipe-DTW
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&width=1212&section=footer)
