@@ -61,7 +61,7 @@
 
 ### 카테고리 선택 <br>
 
-<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/2c3a51af-b794-4c5b-b402-20d4a9bd5d07" />
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/.github/assets/79428205/255fdd2b-4dc7-49a0-a70b-bb651a7f86db" loop="infinite" />
 <br>
 <br>
 
@@ -75,12 +75,12 @@
 
 #### 올바른 동작일 경우 <br>
 
-<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/8b8cea1d-75dc-40f1-836e-ee6aa09b4bc2" />
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/.github/assets/79428205/d3770cac-14fc-41a6-98d7-75256e0e9cc8" />
 <br>
 
 #### 틀린 동작일 경우 <br>
 
-<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/8951a270-7bb9-4419-817b-8ebf42d790eb" />
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/.github/assets/79428205/2a378728-205c-4868-acf5-7c2c84588d88" />
 
 <br>
 <br>
@@ -107,7 +107,7 @@
 
 ### 공유 <br>
 
-<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/d63eabfc-cca9-4f15-8564-fa7e69368571" />
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/.github/assets/79428205/7246f73d-f1f7-4405-b775-174e06f30eee" />
 
 <br>
 <br>
@@ -179,7 +179,6 @@
 - Deployment: Docker, AWS EC2, AWS S3 bucket, AWS CloudFront
 - API Test : Postman
 - Others: Github, Notion, Google Meet, Slack, Figma
-
 ```
 
 <br>
